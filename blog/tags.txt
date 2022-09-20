@@ -1,0 +1,27 @@
+.NET Core
+AWS
+Angular
+Bash
+C#
+CSS
+ElasticSearch
+Git
+Github
+Google Cloud Platform, GCP
+HTML
+JavaScript
+Linux
+MySQL
+NLP
+POSTMAN
+PyTorch
+Python
+SQL
+SSH
+Tensorflow
+Tensorflow.js
+Toy Project
+TypeScript
+Ubuntu
+Vim
+WSL

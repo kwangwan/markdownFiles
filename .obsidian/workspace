@@ -1,0 +1,139 @@
+{
+  "main": {
+    "id": "634f2be3b4f5ee38",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b6a79a7dd00b291",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "blog/Ubuntu 22.04 LTS 설치 (WSL2).md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ab0c518dd99881dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "c702335706fb7735",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a75b3f26b8bda6e1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "357c5421e10b7399",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e39fbd693f4d3326",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5929a4ea4d431132",
+    "type": "split",
+    "children": [
+      {
+        "id": "e900c4c65d164166",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c32c261a68a8b72b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "blog/Ubuntu 22.04 LTS 설치 (WSL2).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fe02e0cf5363e4ce",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "blog/Ubuntu 22.04 LTS 설치 (WSL2).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cf9be1eb84acf3a8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "178d36a7883584b3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "blog/Ubuntu 22.04 LTS 설치 (WSL2).md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "7b6a79a7dd00b291",
+  "lastOpenFiles": [
+    "blog/main.md",
+    "blog/test 01.md",
+    "blog/Ubuntu 22.04 LTS 설치 (WSL2).md",
+    "README.md",
+    "BlogMain.md"
+  ]
+}
